@@ -1,7 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:todo_apps/pages/home_page.dart';
 
-void main() {
+void main() async{
+  // Initializes Hive with a valid directory in your app files
+  await Hive.initFlutter();
+  // opening box like create a new table in sql
+  var box = await Hive.openBox('myBox');
+
   runApp(const MyApp());
 }
 
