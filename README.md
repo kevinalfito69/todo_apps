@@ -5,16 +5,15 @@ A simple and user-friendly Todo List application built using Flutter. This app a
 ## Features
 
 - Add new tasks
-- Mark tasks as completed or pending
-- Edit existing tasks
+- Mark tasks as completed
 - Delete tasks
 - Persistent storage for tasks
 
 ## Screenshots
-
-<img width="20" src="/screenshoots/add.png"  alt="add"/>
-<img width="20" src="/screenshoots/dashboard.png"  alt="dashboard"/>
-
+<p align="center">
+<img width="230" src="/screenshoots/add.png"  alt="add"/>
+<img width="230" src="/screenshoots/dashboard.png"  alt="dashboard"/>
+</p>
 ## Installation
 
 1. **Clone the repository:**
