@@ -12,8 +12,8 @@ A simple and user-friendly Todo List application built using Flutter. This app a
 
 ## Screenshots
 
-<img width="320" src="/screenshoots/add.png"  alt="add"/>
-<img width="320" src="/screenshoots/dashboard.png"  alt="dashboard"/>
+<img width="20" src="/screenshoots/add.png"  alt="add"/>
+<img width="20" src="/screenshoots/dashboard.png"  alt="dashboard"/>
 
 ## Installation
 
