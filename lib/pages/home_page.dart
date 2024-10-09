@@ -28,9 +28,11 @@ class _HomePageState extends State<HomePage> {
               });
               Navigator.pop(context);
               db.updateDataBase();
+              _myController.clear();
             },
             onCacel: () {
               Navigator.pop(context);
+              _myController.clear();
             },
             controller: _myController,
           );
